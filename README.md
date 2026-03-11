@@ -30,14 +30,15 @@ full.step isnt necessary thats just a CAD model wheres everything(Switches, esp3
 
 | Component          | Link                                                                                                                                    | Price(czk) | Price(usd) | Shipping(czk) | Price total(usd) |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------- | ---------------- |
-| ESP32 mini         | [link](https://allegro.cz/produkt/mikropocitac-cn-esp32c3fn4-561e3455-5297-4858-85b5-34fb4ad5f9d1)                                      | 106        | 5.15       | 80            | 7.58             |
-| Screen             | [link](https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/)                                                               | 168        | 8.15       | 80            | 10.58            |
-| Electrical tape    | [link](https://www.thomann.de/cz/stairville_iso_band_black.htm)                                                                         | 54         | 2.62       | 125            | 5.05             |
-| m-m cables         | [link](https://allegro.cz/produkt/propojovaci-vodice-do-nepajiveho-pole-10cm-40ks-samec-samec-m-m-1f79dee5-74a9-457b-8bbd-581c4a35d8e5) | 46         | 2.23       | 80            | 4.66             |
-| switches           | [link](https://allegro.cz/produkt/mechanicka-klavesnice-gateron-smoothie-10-ks-ac233cd7-7a06-48fe-928d-5950bc04e47c)                    | 219        | 10.49      | 80            | 12.92            |
+| ESP32 mini         | [link](https://allegro.cz/produkt/mikropocitac-cn-esp32c3fn4-561e3455-5297-4858-85b5-34fb4ad5f9d1)                                      | 106        | 5.15       | 80            | 9.04             |
+| Screen             | [link](https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/)                                                               | 168        | 8.15       | 80            |     12.04        |
+| Electrical tape    | [link](https://www.thomann.de/cz/stairville_iso_band_black.htm)                                                                         | 54         | 2.62       | 125           | 8.69             |
+| m-m cables         | [link](https://allegro.cz/produkt/propojovaci-vodice-do-nepajiveho-pole-10cm-40ks-samec-samec-m-m-1f79dee5-74a9-457b-8bbd-581c4a35d8e5) | 46         | 2.23       | 80            | 6.12             |
+| switches           | [link](https://allegro.cz/produkt/mechanicka-klavesnice-gateron-smoothie-10-ks-ac233cd7-7a06-48fe-928d-5950bc04e47c)                    | 219        | 10.49      | 80            | 14.38            |
 | keycaps            | [link](https://makerworld.com/en/models/132469-xda-style-keycaps-blank#profileId-143606)                                                | 0          | 0          | 0             | 0                |
-| M3 Heatset inserts | [link](https://www.hotend.cz/p/tepelna-zavitova-vlozka-heat-insert-m3-x-d4-x-l5)                                                        | 40         | 1.94       | 80            | 5.61             |
-| **Total**          |                                                                                                                                         | **633**    | **30.58**  | **443**       | **51.86**        |
+| M3 Heatset inserts | [link](https://www.hotend.cz/p/tepelna-zavitova-vlozka-heat-insert-m3-x-d4-x-l5)                                                        | 40         | 1.94       | 80            | 5.83             |
+| **Total**          |                                                                                                                                         | **633**    | **30.58**  | **445**       | **51.86**        |
+
 
 
 ## final price is 51.86usd,
