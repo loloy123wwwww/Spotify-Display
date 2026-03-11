@@ -1,0 +1,9 @@
+Component,Link,Price(czk),Price(usd),Shipping(czk),Price total(usd)
+ESP32 mini,https://allegro.cz/produkt/mikropocitac-cn-esp32c3fn4-561e3455-5297-4858-85b5-34fb4ad5f9d1,106,5.15,80,9.04
+Screen,https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/,168,8.15,80,12.04
+Electrical tape,https://www.thomann.de/cz/stairville_iso_band_black.htm,54,2.62,125,8.69
+m-m cables,https://allegro.cz/produkt/propojovaci-vodice-do-nepajiveho-pole-10cm-40ks-samec-samec-m-m-1f79dee5-74a9-457b-8bbd-581c4a35d8e5,46,2.23,80,6.12
+switches,https://allegro.cz/produkt/mechanicka-klavesnice-gateron-smoothie-10-ks-ac233cd7-7a06-48fe-928d-5950bc04e47c,219,10.49,80,14.38
+keycaps,https://makerworld.com/en/models/132469-xda-style-keycaps-blank#profileId-143606,0,0,0,0
+M3 Heatset inserts,https://www.hotend.cz/p/tepelna-zavitova-vlozka-heat-insert-m3-x-d4-x-l5,40,1.94,80,5.83
+Total,,633,30.58,445,56.1
