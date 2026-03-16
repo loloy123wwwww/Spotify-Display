@@ -2,7 +2,7 @@
 <img width="877" height="669" alt="image" src="https://github.com/user-attachments/assets/33b59d6e-c3b7-4cba-bda3-cfeaf7dfca95" />
 
 
-This is my project for hackclub stasis it is a spotify display which displays current track playing with 3 buttons first stops/plays the track second goes to previous track and third skips track
+This is my project for hackclub stasis it is a spotify display which displays current track playing with 3 buttons first stops/plays the track second goes to previous track and third skips track + 3 programmable macro keys
 ## Setup
 -  Download [**Arduino IDE**](https://www.arduino.cc/en/software/)
 -  Download all libraries
