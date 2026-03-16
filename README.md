@@ -46,10 +46,8 @@ full.step isnt necessary thats just a CAD model wheres everything(Switches, esp3
  calculated by combining all items in shopping carts(includes shipping)
                                                                                                                          
 > [!NOTE]
-> Shipping may change depending on the day
+> its for stasis
 
-> [!NOTE]
-> These products arent from popular websites such as amazon, since the shipping to EU could be more than the product itself
 
 <details>
 <summary>pictures</summary>
