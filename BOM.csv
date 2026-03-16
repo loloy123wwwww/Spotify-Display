@@ -1,8 +1,7 @@
-Component,Link,Price(czk),Price(usd),Shipping(czk),Price total(usd)
-ESP32 mini,https://allegro.cz/produkt/mikropocitac-cn-esp32c3fn4-561e3455-5297-4858-85b5-34fb4ad5f9d1,106,5.15,80,9.04
-Screen,https://www.laskakit.cz/128x160-barevny-lcd-tft-displej-1-8--spi/,168,8.15,80,12.04
-m-m cables,https://allegro.cz/produkt/propojovaci-vodice-do-nepajiveho-pole-10cm-40ks-samec-samec-m-m-1f79dee5-74a9-457b-8bbd-581c4a35d8e5,46,2.23,80,6.12
-switches,https://allegro.cz/produkt/mechanicka-klavesnice-gateron-smoothie-10-ks-ac233cd7-7a06-48fe-928d-5950bc04e47c,219,10.49,80,14.38
-keycaps,https://makerworld.com/en/models/132469-xda-style-keycaps-blank#profileId-143606,0,0,0,0
-M3 Heatset inserts,https://www.hotend.cz/p/tepelna-zavitova-vlozka-heat-insert-m3-x-d4-x-l5,40,1.94,80,5.83
-Total,,633,30.58,420,47.41
+Component,Link,Price(usd)
+ESP32 mini,https://www.aliexpress.com/item/1005005780805655.html?spm=a2g0o.cart.0.0.23ab38dam5pIo1&mp=1&pdp_npi=6%40dis%21USD%21USD%203.39%21USD%200.99%21%21USD%200.99%21%21%21%40211b612517736600605951389e7284%2112000056122856735%21ct%21CZ%217428457144%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D,3.50       |
+Screen,https://www.aliexpress.com/item/1005008974306385.html?spm=a2g0o.cart.0.0.23ab38dam5pIo1&mp=1&pdp_npi=6%40dis%21USD%21USD%204.05%21USD%204.05%21%21USD%204.05%21%21%21%40211b612517736600605951389e7284%2112000047425743978%21ct%21CZ%217428457144%21%211%210%21,4.05     
+Jumper wires,https://www.aliexpress.com/item/1005007485928225.html?spm=a2g0o.cart.0.0.23ab38dam5pIo1&mp=1&pdp_npi=6%40dis%21USD%21USD%209.00%21USD%203.69%21%21USD%203.69%21%21%21%40211b612517736600605951389e7284%2112000040968023387%21ct%21CZ%217428457144%21%211%210%21, 4         
+switches,https://www.aliexpress.com/item/1005006349945310.html?spm=a2g0o.cart.0.0.29d438da4YFeXv&mp=1&pdp_npi=6%40dis%21USD%21USD%207.31%21USD%205.92%21%21USD%205.92%21%21%21%4021038e6617736596930296117e7567%2112000036852539237%21ct%21CZ%217428457144%21%211%210%21,6     
+keycaps,https://www.aliexpress.com/item/1005006625525296.html?spm=a2g0o.cart.0.0.23ab38dam5pIo1&mp=1&pdp_npi=6%40dis%21USD%21USD%203.50%21USD%203.50%21%21USD%203.50%21%21%21%40211b612517736600605951389e7284%2112000037857008300%21ct%21CZ%217428457144%21%211%210%21,3.50    
+Total,,21.05
